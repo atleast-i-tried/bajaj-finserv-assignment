@@ -5,7 +5,7 @@ import { buildConcatString } from "../utils/concat.js";
 const router = express.Router();
 
 const FULL_NAME = "abhinav_gupta";
-const DOB = "01012003";
+const DOB = "24062003";
 const EMAIL =  "abhiguptahmr@gmail.com";
 const ROLL_NUMBER =  "22BSA10135";
 
